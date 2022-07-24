@@ -1,8 +1,8 @@
-<h1>StudentDataBaseApp </h1>
+<h1>Student Data Base App </h1>
 
 
 <h2>Description</h2>
-This is an introduction project which implements the basics and fundamentals of java through a course. This includes the basic functions along with beginner object-oriented programming.
+The Student Management System is software which is helpful for students. In the current system all the activities are done manually. It is very time consuming and costly. The Student Management System deals with the various activities related to the students. 
 
 
 <h2>Languages and Utilities Used</h2>
